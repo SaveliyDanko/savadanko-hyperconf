@@ -1,0 +1,143 @@
+[INFO] Distribution: Ubuntu 24.04.2 LTS
+[INFO] Kernel: 6.11.0-26-generic
+
+[MANUAL APT PACKAGES]
+apt-transport-https
+bsdutils
+chrome-gnome-shell
+clang
+clang-format
+containerd.io
+curl
+dash
+diffutils
+docker-buildx-plugin
+docker-ce
+docker-ce-cli
+docker-compose-plugin
+efibootmgr
+findutils
+firejail
+flameshot
+flatpak
+fonts-powerline
+g++
+gh
+git
+gitk
+gnome-screenshot
+gnome-shell-extensions
+gnome-tweaks
+gradle
+grep
+grub-efi-amd64
+grub-efi-amd64-signed
+gzip
+hostname
+htop
+ibus-table-cangjie3
+ibus-table-cangjie5
+ibus-table-cangjie-big
+init
+iptables
+language-pack-en
+language-pack-en-base
+language-pack-gnome-en
+language-pack-gnome-en-base
+libchewing3
+libchewing3-data
+libfuse2t64
+libm17n-0
+libmarisa0
+libnss3
+libopencc1.1
+libopencc-data
+libotf1
+libpinyin15
+libpinyin-data
+libxcb-cursor0
+libxcb-xinerama0
+linux-generic-hwe-24.04
+login
+m17n-db
+ncurses-base
+ncurses-bin
+neofetch
+obsidian
+openjdk-17-jdk
+openjdk-21-jdk
+postgresql
+postgresql-contrib
+python3-netifaces
+shim-signed
+stacer
+sublime-text
+tree
+ubuntu-desktop-minimal
+ubuntu-minimal
+ubuntu-restricted-addons
+ubuntu-standard
+ubuntu-wallpapers
+upx-ucl
+vim
+virtualbox-7.1
+vivaldi-stable
+wbritish
+xdg-desktop-portal
+xdg-desktop-portal-kde
+zsh
+
+[SNAP PACKAGES]
+bare                         1.0                             5      latest/stable    canonical**         base
+chromium                     136.0.7103.113                  3137   latest/stable    canonical**         -
+code                         848b80ae                        194    latest/stable    vscode**            classic
+core18                       20250123                        2855   latest/stable    canonical**         base
+core20                       20250429                        2582   latest/stable    canonical**         base
+core22                       20250408                        1963   latest/stable    canonical**         base
+core24                       20250504                        988    latest/stable    canonical**         base
+cups                         2.4.12-2                        1100   latest/stable    openprinting**      -
+firmware-updater             0+git.22198be                   167    1/stable/…       canonical**         -
+gnome-42-2204                0+git.38ea591                   202    latest/stable/…  canonical**         -
+gnome-46-2404                0+git.d9f8bf6-sdk0+git.c8a281c  90     latest/stable    canonical**         -
+gtk-common-themes            0.1-81-g442e511                 1535   latest/stable/…  canonical**         -
+intellij-idea-community      2025.1.1.1                      609    latest/stable    jetbrains**         classic
+keepassxc                    2.7.9                           1854   latest/stable    keepassxreboot      -
+kf5-5-113-qt-5-15-11-core22  5.113                           1      latest/stable    kde**               -
+libreoffice                  24.8.7.2                        344    latest/stable    canonical**         -
+mesa-2404                    24.2.8                          495    latest/stable    canonical**         -
+pycharm-community            2025.1.1.1                      480    latest/stable    jetbrains**         classic
+snap-store                   0+git.90575829                  1270   2/stable/…       canonical**         -
+snapd                        2.68.4                          24505  latest/stable    canonical**         snapd
+snapd-desktop-integration    0.9                             253    latest/stable/…  canonical**         -
+telegram-desktop             5.14.3                          6639   latest/stable    telegram-desktop**  -
+zoom-client                  6.4.6.1370                      258    latest/stable    ogra                -
+
+[FLATPAK PACKAGES]
+Discord	com.discordapp.Discord	0.0.94	stable	system
+Postman	com.getpostman.Postman	11.45.0-r250512-1424	stable	system
+Bottles	com.usebottles.bottles	51.21	stable	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.19	24.08	system
+Mesa	org.freedesktop.Platform.GL.default	21.3.9	21.08	system
+Mesa	org.freedesktop.Platform.GL.default	25.0.5	24.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.5	24.08extra	system
+Mesa	org.freedesktop.Platform.GL32.default	25.0.5	24.08	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		21.08	system
+Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
+FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		24.08	system
+i386	org.freedesktop.Platform.ffmpeg_full.i386		24.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	system
+openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
+Freedesktop SDK	org.freedesktop.Sdk	21.08.22	21.08	system
+GNU Image Manipulation Program	org.gimp.GIMP	3.0.2	stable	system
+HEIC	org.gimp.GIMP.HEIC		stable	system
+GNOME Application Platform version 47	org.gnome.Platform		47	system
+GNOME Application Platform version 48	org.gnome.Platform		48	system
+i386	org.gnome.Platform.Compat.i386		47	system
+Yaru Gtk Theme	org.gtk.Gtk3theme.Yaru		3.22	system
+KDE Application Platform	org.kde.Platform		6.9	system
+Okular	org.kde.okular	25.04.1	stable	system
+Wine	org.winehq.Wine	10.0	wow64-24.08	system
+gecko	org.winehq.Wine.gecko		stable-24.08	system
+gecko-wow64	org.winehq.Wine.gecko-wow64		wow64-24.08	system
+mono	org.winehq.Wine.mono		stable-24.08	system
+mono-wow64	org.winehq.Wine.mono-wow64		wow64-24.08	system
