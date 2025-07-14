@@ -15,3 +15,4 @@ Security › Workspace › Trust: Enabled = false
 CSS Peek
 HTML to CSS autocompletion
 IntelliSense for CSS class names in HTML
+One Dark Pro
