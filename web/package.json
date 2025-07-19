@@ -4,7 +4,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass-watch": "sass --watch ."
+    "sass-watch": "sass --watch .",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "SavaDanko",
   "license": "ISC",
@@ -14,5 +17,6 @@
   "dependencies": {
     "@a1rth/css-normalize": "^1.2.1"
   },
-  "description": ""
+  "description": "npm init npm run sass-watch",
+  "keywords": []
 }
