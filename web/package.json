@@ -14,9 +14,6 @@
   "devDependencies": {
     "sass": "^1.89.2"
   },
-  "dependencies": {
-    "@a1rth/css-normalize": "^1.2.1"
-  },
   "description": "npm init npm run sass-watch",
   "keywords": []
 }
